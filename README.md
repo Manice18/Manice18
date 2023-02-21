@@ -41,7 +41,9 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins" /></code>
+	<code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="Google_Cloud" /></code>
 </div>
+	
    
 ---
 ![Manice18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manice18&show_icons=true&theme=tokyonight)
