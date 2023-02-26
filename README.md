@@ -7,7 +7,7 @@
   <img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
 </picture>
 
-⭕ Hey there ,  I am Manish Saha an IT undergraduate persuing my Bachelors Degree from RCC Institute of Information Technology .
+⭕ Hey there ,  I am Manish Saha an IT undergraduate persuing my Bachelors Degree in Information Technology .
 
 ⭕ Currently exploring and learning new technologies .
 
