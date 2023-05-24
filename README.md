@@ -7,9 +7,9 @@
   <img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
 </picture>
 
-⭕ Hey there ,  I am Manish Saha an IT sophomore persuing my Bachelors Degree in Information Technology .
+⭕ Hey there,  I am Manish Saha an IT sophomore pursuing my Bachelors Degree in Information Technology .
 
-⭕ Currently I am exploring the web dev ecosystem and playing with the web frameworks .
+⭕ Currently I am exploring the solana ecosystem and trying to learn Rust and anchor.
 
 ⭕ I am a MERN stack developer right now and love to make projects based on this tech stack .
 
