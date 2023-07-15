@@ -59,3 +59,4 @@
    
 ---
 ![Manice18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manice18&show_icons=true&theme=tokyonight)
+[![Manice18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manice18&theme=react-dark&area=true&area_color=6500F7&custom_title=Manice%2018%27s%20Graph&point=70F700&height=350)](https://github.com/Manice18/README.md)
