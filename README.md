@@ -9,7 +9,7 @@
 
 ⭕ Hey there,  I am Manish Saha a pre-final year IT undergrad pursuing my Bachelors Degree in Information Technology .
 
-⭕ Currently I am exploring the solana ecosystem and trying to learn Rust and anchor.
+⭕ Currently I am creating different projects on web dev mainly around the React ecosystem. Also I am exploring web3 with the solana blockchain.
 
 ⭕ I am a MERN stack developer right now and love to make projects based on this tech stack .
 
