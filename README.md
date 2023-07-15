@@ -3,8 +3,8 @@
 ---   
    
    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/91601706/171492640-46474573-483a-49f2-9d9b-95a261cbac67.gif">
-  <img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
+  	<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/91601706/171492640-46474573-483a-49f2-9d9b-95a261cbac67.gif">
+  	<img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
 </picture>
 
 ⭕ Hey there,  I am Manish Saha a pre-final year IT undergrad pursuing my Bachelors Degree in Information Technology .
