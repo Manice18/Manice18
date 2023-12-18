@@ -7,15 +7,15 @@
   	<img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
 </picture>
 
-⭕ Hey there,  I am Manish Saha a pre-final year IT undergrad pursuing my Bachelors Degree in Information Technology .
+⭕ Hey there, I am Manish Saha a pre-final year IT undergrad pursuing my Bachelor's Degree in Information Technology.
 
-⭕ Currently I am creating different projects on web dev mainly around the React ecosystem. Also I am exploring web3 with the solana blockchain.
+⭕ A Front-end dev with main expertise in ReactJS and NextJS.
 
-⭕ I am a MERN stack developer right now and love to make projects based on this tech stack .
+⭕ I love to build projects around the ReactJS ecosystem and try to write scalable code.
 
-⭕ I am enthusiatic about Open Source and looking forward to contributing into projects .
+⭕ I love listening to music, dancing, and watching anime in my free time ⚡.
 
-⭕ I love listening to music,dance and watch anime in my free time ⚡.
+⭕ Interested in learning Rust.
 
 ---
 ## 📫 How to reach me:
