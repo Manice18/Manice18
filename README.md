@@ -15,7 +15,7 @@
 
 ⭕ I love listening to music, dancing, and watching anime in my free time ⚡.
 
-⭕ Interested in learning Rust.
+⭕ Interested in learning System Design, advanced Backend technology, Rust.
 
 ---
 ## 📫 How to reach me:
