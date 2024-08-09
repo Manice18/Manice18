@@ -7,11 +7,11 @@
   	<img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
 </picture>
 
-⭕ Hey there, I am Manish Saha a pre-final year IT undergrad pursuing my Bachelor's Degree in Information Technology.
+⭕ Hey there, I am Manish a final year IT undergrad pursuing my Bachelor's of Technology in IT.
 
-⭕ A Front-end dev with main expertise in ReactJS and NextJS.
+⭕ A Full-stack Engineer who loves building dApps around the Solana Blockchain.
 
-⭕ I love to build projects around the ReactJS ecosystem and try to write scalable code.
+⭕ I love to build projects around the NextJS ecosystem and try to write scalable code.
 
 ⭕ I love listening to music, dancing, and watching anime in my free time ⚡.
 
@@ -22,6 +22,7 @@
 
 <a href="https://www.instagram.com/manish_1826/" ref="nofollow"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="max-width: 100%;"> </a> 
 <a href="https://in.linkedin.com/in/manish-saha-076b61221/" target="blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" style="max-width: 100%;" ></a>
+<a href="https://discord.com/users/610166651949940768" target="blank"> <img src ="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;" ></a>
 <a href="mailto:manishmanice2003@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" style="max-width: 100%;">  </a>
 ---
 
@@ -30,8 +31,9 @@
 ## <image src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47eb58k74uthys5add207565wy49cfe1gqgw4jqb7f&rid=giphy.gif&ct=g" alt="Programming" width="50" > Tech Stack:
 <div align="center">
 	<img height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
-    	<img height="25" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNUBash" title="Gnubash" />
 	<img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" title="NextJS" />
+	<img height="25" src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" alt="solana" title="Solana" />
+	<img height="25" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3js" title="Web3.JS" />
 	<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" />
 	<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" />
 	<img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" />
@@ -52,6 +54,9 @@
     	<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="Typescript" />
     	<img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="reduxToolkit" title="ReduxToolkit" />
     	<img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" title="mongoDB" />
+    	<img height="25" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" title="prisma" />
+    	<img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" title="PostgreSQL" />
+    	<img height="25" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" title="Supabase" />
 	<img height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" title="Postman" />
     
 </div>
