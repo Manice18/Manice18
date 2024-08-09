@@ -20,10 +20,9 @@
 ---
 ## 📫 How to reach me:
 
-<a href="https://www.instagram.com/manish_1826/" ref="nofollow"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="max-width: 100%;"> </a> 
-<a href="https://in.linkedin.com/in/manish-saha-076b61221/" target="blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" style="max-width: 100%;" ></a>
-<a href="https://discord.com/users/610166651949940768" target="blank"> <img src ="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;" ></a>
-<a href="mailto:manishmanice2003@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" style="max-width: 100%;">  </a>
+<a href="https://in.linkedin.com/in/manish-saha-076b61221/" target="blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://discord.com/users/610166651949940768" target="blank"> <img src ="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://twitter.com/Manice18heree" target="blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="G-mail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" style="max-width: 100%;"></a>
 ---
 
 ---
@@ -45,8 +44,10 @@
 	<img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
 	<img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" title="Express" />
     	<img height="25" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="materialui" title="materialui" />
+    	<img height="25" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcnUI" title="ShadcnUI" />
 	<img height="25" src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java" />
 	<img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" />
+	<img height="25" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust" />
 	<img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python" />
 	<img height="25" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" title="bash" />
 	<img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" />
