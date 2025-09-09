@@ -7,15 +7,15 @@
   	<img alt="Shows an illustrated Naruto in light color mode and Madara in dark color mode." src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif">
 </picture>
 
-⭕ Hey there, I am Manish a final year IT undergrad pursuing my Bachelor's of Technology in IT.
+⭕ Hey there, I am Manish, a CS Engineer, always curious, always building — that’s me in tech.
 
-⭕ A Full-stack Engineer who loves building dApps around the Solana Blockchain.
+⭕ A Full-stack Engineer passionate about building dApps on the Solana Blockchain.
 
-⭕ I love to build projects around the NextJS ecosystem and try to write scalable code.
+⭕ Focused on writing clean, scalable, and impactful code across the stack.
 
-⭕ I love listening to music, dancing, and watching anime in my free time ⚡.
+⭕ Outside of tech, I’m into music, dance, and anime ⚡.
 
-⭕ Interested in learning System Design, advanced Backend technology, Rust.
+⭕ Currently diving deeper into Solana, low-level programming, and advanced Backend technologies.
 
 ---
 ## 📫 How to reach me:
